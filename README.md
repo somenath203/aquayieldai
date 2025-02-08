@@ -42,7 +42,8 @@
   - 📦 **Zustand** for state management  
   - 🖨️ **Puppeteer-Core** and **@sparticuz/chromium** for PDF generation  
   - 🗣️ **SpeechSynthesisUtterance** for text-to-speech functionality  
-  - 📄 **Markdown-to-txt** and **Marked** for markdown processing
+  - 📄 **markdown-to-txt** for converting markdown to plain text  
+  - 📝 **marked** for parsing markdown into HTML
 
 - **Backend:**  
   - 🚀 **FastAPI** for high-performance APIs  
@@ -52,8 +53,6 @@
   - 🤖 **Google Gemini API**  
   - 🧠 **OpenAI API**  
   - ☁️ **OpenWeather API**
-
-Stay ahead with **AquaYield AI** and cultivate a smarter, sustainable future for agriculture!
 
 ## 📊 Models Used
 
