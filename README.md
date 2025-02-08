@@ -1,5 +1,10 @@
 # 🌊 AquaYield AI
 
+📽️ Application Demo Video
+![Screenshot (836)](https://github.com/user-attachments/assets/0838804d-6651-429b-9cc5-4647a0d532fd)
+
+https://www.youtube.com/watch?v=hQBKC252SOw
+
 ## 🚀 Introduction
 
 **AquaYield AI** is an advanced, AI-powered solution designed to revolutionize sustainable agriculture by optimizing water usage, tracking environmental conditions, and implementing intelligent irrigation scheduling. By integrating cutting-edge AI technologies, AquaYield AI empowers farmers with actionable insights, helping them make data-driven decisions for efficient farm management.
