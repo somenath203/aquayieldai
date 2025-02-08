@@ -1,7 +1,8 @@
 # 🌊 AquaYield AI
 
-📽️ Application Demo Video
+📽️ ## Application Demo Video
 ![Screenshot (836)](https://github.com/user-attachments/assets/0838804d-6651-429b-9cc5-4647a0d532fd)
+
 ▶️ [Watch the Demo Video](https://www.youtube.com/watch?v=hQBKC252SOw)
 
 ## 🚀 Introduction
