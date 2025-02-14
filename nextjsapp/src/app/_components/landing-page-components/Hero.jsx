@@ -16,7 +16,7 @@ const Hero = () => {
 
   return (
     <>
-      <section className="relative h-[110vh] lg:h-screen flex justify-center px-6 overflow-hidden">
+      <section className="relative h-[95vh] lg:h-screen flex justify-center px-6 overflow-hidden">
         
         <div className="absolute inset-0 bg-gradient-to-r from-blue-600/90 to-blue-800/90 z-10" />
 
