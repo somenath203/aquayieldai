@@ -62,8 +62,8 @@
 
 ## 📊 Models Used
 
-- **Gemini-1.5-Flash**  
-- **GPT-3.5-Turbo**
+- **gemini-3.1-flash-lite**  
+- **gpt-4o-mini**
 
 ## 🚀 Deployment
 
