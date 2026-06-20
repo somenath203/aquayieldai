@@ -142,20 +142,6 @@ const IrrigationSchedule = ({ data }) => {
         <Markdown
           remarkPlugins={[remarkGfm]}
           rehypePlugins={[rehypeRaw]}
-          components={{
-            h2: ({ node, ...props }) => (
-              <h2
-                className="text-lg lg:text-2xl font-bold text-blue-600 mb-6"
-                {...props}
-              />
-            ),
-            h3: ({ node, ...props }) => (
-              <h3
-                className="text-base lg:text-lg text-gray-600 font-semibold mb-4"
-                {...props}
-              />
-            ),
-          }}
         >
           {text}
         </Markdown>
