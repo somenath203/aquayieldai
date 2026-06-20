@@ -22,13 +22,11 @@
 3. **🔗 Backend Integration:**  
    - Seamlessly sends data to a **FastAPI** server for AI-powered analysis.
 
-4. **🤖 Multi-Agent AI Functionality (Powered by Phidata):**  
-   - **Location Agent:** Provides insights on geographical features, common crops, and climate conditions.  
-   - **Crop Recommendation Agent:** Suggests the best crops based on farm conditions.  
-   - **Irrigation Planner Agent:** Calculates optimal water requirements.  
-   - **Water Source Agent:** Evaluates efficiency of various water sources.  
-   - **Soil Moisture Agent:** Estimates soil moisture using weather and soil data.  
-   - **Final Report Agent:** Generates a comprehensive final report.
+4. **🤖 Multi-Agent AI Architecture (Powered by Phidata):**
+
+   * **OpenAI Agent:** Acts as a *Farming Analysis Expert*, evaluating farm conditions such as weather, soil, irrigation, and crop suitability to generate detailed insights.
+   * **Google Gemini Agent:** Transforms the analysis into a well-structured, strictly formatted JSON report for seamless frontend integration and visualization.
+
 
 5. **📊 Insightful Data Visualization:**  
    - Displays results step-wise with capabilities to **listen to responses** and **copy text to clipboard**.  
