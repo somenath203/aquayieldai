@@ -37,7 +37,7 @@ const Page = () => {
   }
 
   
-  const parsedResponse = responseFromBackendFastAPI ? JSON.parse(responseFromBackendFastAPI.replace(/```json|```/g, '').trim()) : null;
+  const parsedResponse = responseFromBackendFastAPI;
 
   
   return (

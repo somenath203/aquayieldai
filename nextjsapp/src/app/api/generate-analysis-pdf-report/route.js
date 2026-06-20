@@ -39,6 +39,7 @@ export async function POST(req) {
       },
     });
 
+
   } catch (error) {
 
     console.error("Error generating PDF:", error);

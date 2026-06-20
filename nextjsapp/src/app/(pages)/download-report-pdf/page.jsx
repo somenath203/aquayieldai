@@ -58,7 +58,7 @@ const Page = () => {
   const irrigationMethod = userInputs?.irrigation_method;
 
 
-  const parsedResponse = responseFromBackendFastAPI ? JSON.parse(responseFromBackendFastAPI.replace(/```json|```/g, '').trim()) : null;
+  const parsedResponse = responseFromBackendFastAPI;
 
   const locationInsights = parsedResponse?.locationInsights;
 
